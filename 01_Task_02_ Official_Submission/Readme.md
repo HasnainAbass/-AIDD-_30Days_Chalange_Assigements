@@ -1,4 +1,4 @@
-📝 Task 2 — AI-Driven Development (AIDD)
+# Task 2 — AI-Driven Development (AIDD)
 
 ## 1. Nine Pillars Understanding
 ### a) Why is using AI Development Agents (like Gemini CLI) for repetitive setup tasks better for your growth as a system architect?
